@@ -60,7 +60,7 @@ public class Main {
 			return dividir(n1, n2);	
 		}
 		else {
-			escrever("Operador Inválido!" );
+			escrever("Operador Invalido!" );
 			menuOperadores(n1, n2);
 			
 		}
